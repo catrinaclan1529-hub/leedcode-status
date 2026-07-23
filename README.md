@@ -1,4 +1,6 @@
 # leedcode-status
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/dharshiniprabha?theme=light&font=Shrikhand)
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
